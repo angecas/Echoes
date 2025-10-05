@@ -1,0 +1,40 @@
+# Google plist
+GoogleService-Info.plist
+
+# Xcode
+build/
+DerivedData/
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcuserdatad
+*.moved-aside
+*.xcscmblueprint
+*.xccheckout
+*.xcsettings
+*.xcdebugger
+*.xcuserstate
+
+# Swift Package Manager
+.swiftpm/
+Package.resolved
+.build/
+
+# CocoaPods
+Pods/
+
+# Xcode Archives
+*.xcarchive
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Temporary files
+*.swp
+*.lock
+*.DS_Store
+*.orig
+*.log
